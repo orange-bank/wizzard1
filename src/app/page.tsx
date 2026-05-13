@@ -95,7 +95,7 @@ export default function HomePage() {
               title="Mortgages"
               description="Competitive rates for first-time buyers, movers, and switchers."
               ctaLabel="Get a Quote"
-              ctaHref="/mortgages"
+              ctaHref="/wizard"
               features={["Fixed & variable rates", "Free valuation", "Online application"]}
             />
             <ProductCard
